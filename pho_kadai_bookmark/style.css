@@ -1,0 +1,19 @@
+body{
+    background-color: aliceblue;
+}
+
+.insert {
+    margin-bottom: 20px;
+}
+.btn {
+    padding: 20px 40px;
+    border-radius: 20px;
+    background-color: rgb(235, 253, 212);
+}
+h1 {
+    padding-bottom: 5px;
+    border-bottom: 1px solid rgb(217, 217, 217);
+}
+form input {
+    padding: 3px 20px;
+}
